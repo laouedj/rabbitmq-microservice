@@ -33,4 +33,8 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>rabbitmq-microservices-producer</module>
+		<module>rabbitmq-microservices-consumer</module>
+	</modules>
 </project>
